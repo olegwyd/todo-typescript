@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/olegwyd/todo-typescript.git/static/css/main.a0ad386f.chunk.css",
+    "main.js": "/olegwyd/todo-typescript.git/static/js/main.684d105a.chunk.js",
+    "main.js.map": "/olegwyd/todo-typescript.git/static/js/main.684d105a.chunk.js.map",
+    "runtime-main.js": "/olegwyd/todo-typescript.git/static/js/runtime-main.4e7c4db9.js",
+    "runtime-main.js.map": "/olegwyd/todo-typescript.git/static/js/runtime-main.4e7c4db9.js.map",
+    "static/js/2.384f6670.chunk.js": "/olegwyd/todo-typescript.git/static/js/2.384f6670.chunk.js",
+    "static/js/2.384f6670.chunk.js.map": "/olegwyd/todo-typescript.git/static/js/2.384f6670.chunk.js.map",
+    "index.html": "/olegwyd/todo-typescript.git/index.html",
+    "static/css/main.a0ad386f.chunk.css.map": "/olegwyd/todo-typescript.git/static/css/main.a0ad386f.chunk.css.map",
+    "static/js/2.384f6670.chunk.js.LICENSE.txt": "/olegwyd/todo-typescript.git/static/js/2.384f6670.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4e7c4db9.js",
+    "static/js/2.384f6670.chunk.js",
+    "static/css/main.a0ad386f.chunk.css",
+    "static/js/main.684d105a.chunk.js"
+  ]
+}
